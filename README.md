@@ -19,3 +19,24 @@ or
 
 Some sample controller tests with spring-mvc-test are also provided.
 
+This project is working with the following technologies:
+========
+
+-Spring MVC 3.2
+-Localized and custom text and validation messages with reloadable bundles in development
+-UTF-8 encoding filter for your user inputs.
+-Using Twitter Boostrap for a responsive design.
+-Able to run it with embedded tomcat or jetty maven.
+-Unit tests of your controllers using spring-test-mvc
+-Interceptors, locales, messages
+-FormDTO, and Validations.
+
+Stuffs TODO:
+========
+-Complete Log4J
+-Connection working with a NotSQL Database, as RethinkDB.
+-Spring Security.
+-Spring Sessions.
+-Spring AOP.
+-Move to a REST-Full WebServices.
+
