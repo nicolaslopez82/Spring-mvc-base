@@ -33,7 +33,7 @@ This project is working with the following technologies:
 -FormDTO, and Validations.
 -Maven
 
-Stuffs TODO:
+TODO:
 ========
 -Complete Log4J logging in a file.
 -Connection working with a NotSQL Database, as RethinkDB.
