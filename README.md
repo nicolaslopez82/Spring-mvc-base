@@ -1,4 +1,4 @@
-mvc-base
+Spring-mvc-base
 ========
 
 This project will allow you to start off on the good foot with spring MVC.
@@ -24,16 +24,18 @@ This project is working with the following technologies:
 
 -Spring MVC 3.2
 -Localized and custom text and validation messages with reloadable bundles in development
+-Hibernate validations.
 -UTF-8 encoding filter for your user inputs.
 -Using Twitter Boostrap for a responsive design.
 -Able to run it with embedded tomcat or jetty maven.
 -Unit tests of your controllers using spring-test-mvc
 -Interceptors, locales, messages
 -FormDTO, and Validations.
+-Maven
 
 Stuffs TODO:
 ========
--Complete Log4J
+-Complete Log4J logging in a file.
 -Connection working with a NotSQL Database, as RethinkDB.
 -Spring Security.
 -Spring Sessions.
