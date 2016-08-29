@@ -19,4 +19,6 @@ public class FormDTO {
 	public String toString() {
 		return "FormDTO [messageFromUser=" + messageFromUser + "]";
 	}
+
+	//Comment to test Merge with RethinDB_Implementation.
 }
